@@ -3,7 +3,7 @@
 <p>I’m an undergraduate Computer Engineering student, Driven by curiosity and fueled by a passion for technology and innovation . I’m always on the lookout for challenges that push the boundaries of my knowledge and skills.If you're looking for someone who is passionate, dedicated, and ready to contribute, feel free to reach out!
 
 
-<img src="https://previews.123rf.com/images/milkos/milkos1907/milkos190702984/127781744-connection-between-people-and-artificial-intelligence-technology-human-and-robotic-hands.jpg">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
