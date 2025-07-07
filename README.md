@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm karuna</h1>
-<p>I’m an undergraduate Computer Engineering student, Driven by curiosity and fueled by a passion for technology and innovation . I’m always on the lookout for challenges that push the boundaries of my knowledge and skills.If you're looking for someone who is passionate, dedicated, and ready to contribute, feel free to reach out!
-
-
-
+<p>I’m an undergraduate Computer Engineering student, Driven by curiosity and fueled by a passion for technology and innovation . I’m always on the lookout for challenges that push the boundaries of my knowledge and skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
